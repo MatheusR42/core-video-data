@@ -57,8 +57,8 @@ function App() {
               const imageNames = []
 
               imageUrls.forEach((image, index) => {
-                const imageUrl = new URL(image)
-                const imageName = `${item.nameComplete}-${index + 1}-${imageUrl.pathname.split('.')[imageUrl.pathname.split('.').length - 1]}`
+                const imageName = `${item.nameComplete}-${index + 1}`
+                console.log(imageName);
                 forceDownload(image, imageName)
                 imageNames.push(imageName)
               })
