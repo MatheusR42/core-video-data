@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/core-video-data/static/js/main.96fb7e42.chunk.js",
+    "main.js.map": "/core-video-data/static/js/main.96fb7e42.chunk.js.map",
+    "runtime-main.js": "/core-video-data/static/js/runtime-main.95616c1f.js",
+    "runtime-main.js.map": "/core-video-data/static/js/runtime-main.95616c1f.js.map",
+    "static/css/2.a45a525b.chunk.css": "/core-video-data/static/css/2.a45a525b.chunk.css",
+    "static/js/2.a25df1d6.chunk.js": "/core-video-data/static/js/2.a25df1d6.chunk.js",
+    "static/js/2.a25df1d6.chunk.js.map": "/core-video-data/static/js/2.a25df1d6.chunk.js.map",
+    "static/js/3.ef452a26.chunk.js": "/core-video-data/static/js/3.ef452a26.chunk.js",
+    "static/js/3.ef452a26.chunk.js.map": "/core-video-data/static/js/3.ef452a26.chunk.js.map",
+    "index.html": "/core-video-data/index.html",
+    "static/css/2.a45a525b.chunk.css.map": "/core-video-data/static/css/2.a45a525b.chunk.css.map",
+    "static/js/2.a25df1d6.chunk.js.LICENSE.txt": "/core-video-data/static/js/2.a25df1d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95616c1f.js",
+    "static/css/2.a45a525b.chunk.css",
+    "static/js/2.a25df1d6.chunk.js",
+    "static/js/main.96fb7e42.chunk.js"
+  ]
+}
