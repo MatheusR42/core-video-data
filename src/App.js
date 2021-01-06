@@ -67,9 +67,9 @@ function App() {
                 "dado01": ProductHelpers.numberToReal(commertialOffer.Price).split(',')[0],
                 "dado02": item.nameComplete,
                 "dado03": `DE R$ ${ProductHelpers.numberToReal(commertialOffer.ListPrice)} POR`,
-                "dado04": ProductHelpers.numberToReal(commertialOffer.Price).split(',')[1],
+                "dado04": "," + ProductHelpers.numberToReal(commertialOffer.Price).split(',')[1],
                 "dado05": ProductHelpers.numberToReal(commertialOffer.ListPrice).split(',')[0],
-                "dado06": ProductHelpers.numberToReal(commertialOffer.ListPrice).split(',')[1],
+                "dado06": "," + ProductHelpers.numberToReal(commertialOffer.ListPrice).split(',')[1],
                 imageNames
               })
 
